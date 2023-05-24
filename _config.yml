@@ -75,3 +75,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
+remote_theme: pages-themes/minimal@v0.2.0
